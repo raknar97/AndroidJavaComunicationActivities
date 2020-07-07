@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Comunicacion_3Activity</string>
+    <string name="boton_1">BOTON 1</string>
+    <string name="boton_2">BOTON 2</string>
+    <string name="hola">HOLA</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="prueba">Escriba Algo</string>
+
+
+
+</resources>
